@@ -49,7 +49,7 @@
          <projectDesc>
             <p>Texto codificado para la actividad "Sumérgete en el pasado virtual. Digitalización, modelado y mapeo de objetos y textos históricos" en la Semana de la Ciencia 2023</p>
          </projectDesc>
-         <variantEncoding method="parallel-segmentation" location="internal"/>
+         <!-- <variantEncoding method="parallel-segmentation" location="internal"/> -->
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -795,8 +795,8 @@
       <body>
          <div n="de l" type="Transcripción" xml:id="Dik12230_transcr">
             <pb n="Harvard Ms Typ 222, f. 1r" facs="https://ids.lib.harvard.edu/ids/iiif/422128651/full/pct:50/0/default.jpg" xml:id="Dik12230_f001r"/>
-            <p style="title">Banda decorativa</p>
-            <p>El libro comienza con una iluminación de fondo dorado flanqueada por arriba y por abajo por una cornisa de color azul, y por los laterales por dos animales fantásticos que miran hacia fuera. Estos seres tienen cabeza de león con la lengua fuera, en color rojo; cuerpo emplumado de color azul, con unas grandes alas verdes como de dragón, y cola de serpiente en verde. En el centro se ha dejado el hueco para pintar un escudo. Está rodeado por una banda en azul y rojo. A su vez, esta banda, en el espacio que queda entre ella y las figuras de los extremos, está ocupado por dos flores azules que salen desde la parte superior e inferior del elemento central y que, a modo de cornucopia, franquean frutas (se distinguen un melón, moras) y hojas.</p>
+            <p style="title" resp="#CGB">Banda decorativa</p>
+            <p resp="#CGB">El libro comienza con una iluminación de fondo dorado flanqueada por arriba y por abajo por una cornisa de color azul, y por los laterales por dos animales fantásticos que miran hacia fuera. Estos seres tienen cabeza de león con la lengua fuera, en color rojo; cuerpo emplumado de color azul, con unas grandes alas verdes como de dragón, y cola de serpiente en verde. En el centro se ha dejado el hueco para pintar un escudo. Está rodeado por una banda en azul y rojo. A su vez, esta banda, en el espacio que queda entre ella y las figuras de los extremos, está ocupado por dos flores azules que salen desde la parte superior e inferior del elemento central y que, a modo de cornucopia, franquean frutas (se distinguen un melón, moras) y hojas.</p>
             <pb n="Harvard Ms Typ 222, f. 1v" facs="https://ids.lib.harvard.edu/ids/iiif/422128652/full/pct:50/0/default.jpg" xml:id="Dik12230_f001v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
