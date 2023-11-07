@@ -1,12 +1,12 @@
 {
-    "indexTitle": "Edizione Logica Avicennae [experimental encoding]",
+    "indexTitle": "De animalium proprietate",
     "webSite": "",
     "logoUrl": "",
     
-    "dataUrl": "data/text/avicenna.xml",
-    "sourcesUrl": "data/text/sources.xml",
-    "analoguesUrl": "data/text/analogues.xml",
-    "sourcesTextsUrl": "data/text/sources/",
+    "dataUrl": "data/text/facsimil_HarvardMsTyp22.xml",
+    "sourcesUrl": "",
+    "analoguesUrl": "",
+    "sourcesTextsUrl": "",
     "singleImagesUrl": "",
     "enableXMLdownload": true,
     
@@ -16,25 +16,25 @@
     "visCollImageList": "",
     "visCollDataModel": "",
 
-    "defaultViewMode": "readingTxt",
+    "defaultViewMode": "imgTxt",
     "availableViewModes": [
         {
             "label": "READING_TEXT",
             "icon": "reading-txt",
             "viewMode": "readingTxt",
-            "visible": true
+            "visible": false
         },
         {
             "label": "MULTIPLE_RECENSIONS",
             "icon": "mode-versions",
             "viewMode": "versions",
-            "visible": true
+            "visible": false
         },
         {
             "label": "IMAGE_TEXT",
             "icon": "mode-imgTxt",
             "viewMode": "imgTxt",
-            "visible": false
+            "visible": true
         },
         {
             "label": "TEXT_TEXT",
@@ -52,7 +52,7 @@
             "label": "SOURCE_TEXT",
             "icon": "mode-srcTxt",
             "viewMode": "srcTxt",
-            "visible": true
+            "visible": false
         },
         {
             "label"    : "3DHOP",
@@ -62,14 +62,14 @@
         }
     ],
 
-    "defaultEdition": "critical",
-    "showEditionLevelSelector": true,
+    "defaultEdition": "interpretative",
+    "showEditionLevelSelector": false,
     "availableEditionLevel": [
         {
             "value": "critical",
             "label": "Critical",
             "title": "Critical edition",
-            "visible": true
+            "visible": false
         },
         {
             "value": "diplomatic",
@@ -81,7 +81,7 @@
             "value": "interpretative",
             "label": "Interpretative",
             "title": "Interpretative edition",
-            "visible": false
+            "visible": true
         }
     ],
     
@@ -91,7 +91,7 @@
     "thumbnailsButton": false,
     "viscollButton": false,
 
-    "toolPinAppEntries": true,
+    "toolPinAppEntries": false,
     "toolImageTextLinking": true,
 
     "namedEntitiesSelector": false,
@@ -163,7 +163,7 @@
     "showInlineAnalogues": false,
     "showReadingExponent": true,
 
-    "toolHeatMap": true,
+    "toolHeatMap": false,
 
     "versions": [
         "rec2",
@@ -235,10 +235,10 @@
     "imageNormalizationCoefficient": 1265,
 
     "languages": [
-        "en",
-        "it"
+        "sp",
+        "en"
     ],
-    "showObjectSelector": true,
+    "showObjectSelector": false,
 
     "tdhopViewerOptions": {
 
