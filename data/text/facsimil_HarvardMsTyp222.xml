@@ -59,733 +59,733 @@
    </teiHeader>
    <facsimile>
       <surface xml:id="Dik12230_surf_f001r" corresp="#Dik12230_f001r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128651/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128651/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f001r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f001v" corresp="#Dik12230_f001v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128652/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128652/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f001v" rend="visible" rendition="HotSpot"/>
       </surface>
       <surface xml:id="Dik12230_surf_f002r" corresp="#Dik12230_f002r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128653/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128653/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f002r" rend="visible" rendition="HotSpot"/>
       </surface>
       <surface xml:id="Dik12230_surf_f002v" corresp="#Dik12230_f002v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128654/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128654/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f002v" rend="visible" rendition="HotSpot"/>
       </surface>
       <surface xml:id="Dik12230_surf_f003r" corresp="#Dik12230_f003r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128655/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128655/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f003r" rend="visible" rendition="HotSpot"/>
       </surface>
       <surface xml:id="Dik12230_surf_f003v" corresp="#Dik12230_f003v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128656/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128656/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f003v" rend="visible" rendition="HotSpot"/>
       </surface>
       <surface xml:id="Dik12230_surf_f004r" corresp="#Dik12230_f004r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128657/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128657/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f004r" rend="visible" rendition="HotSpot"/>
       </surface>
       <surface xml:id="Dik12230_surf_f004v" corresp="#Dik12230_f004v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128658/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128658/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f004v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f005r" corresp="#Dik12230_f005r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128659/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128659/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f005r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f005v" corresp="#Dik12230_f005v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128660/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128660/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f005v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f006r" corresp="#Dik12230_f006r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128661/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128661/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f006r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f006v" corresp="#Dik12230_f006v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128662/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128662/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f006v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f007r" corresp="#Dik12230_f007r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128663/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128663/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f007r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f007v" corresp="#Dik12230_f007v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128664/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128664/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f007v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f008r" corresp="#Dik12230_f008r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128665/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128665/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f008r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f008v" corresp="#Dik12230_f008v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128666/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128666/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f008v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f009r" corresp="#Dik12230_f009r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128667/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128667/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f009r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f009v" corresp="#Dik12230_f009v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128668/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128668/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f009v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f010r" corresp="#Dik12230_f010r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128669/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128669/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f010r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f010v" corresp="#Dik12230_f010v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128670/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128670/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f010v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f011r" corresp="#Dik12230_f011r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128671/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128671/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f011r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f011v" corresp="#Dik12230_f011v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128672/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128672/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f011v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f012r" corresp="#Dik12230_f012r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128673/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128673/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f012r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f012v" corresp="#Dik12230_f012v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128674/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128674/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f012v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f013r" corresp="#Dik12230_f013r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128675/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128675/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f013r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f013v" corresp="#Dik12230_f013v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128676/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128676/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f013v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f014r" corresp="#Dik12230_f014r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128677/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128677/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f014r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f014v" corresp="#Dik12230_f014v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128678/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128678/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f014v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f015r" corresp="#Dik12230_f015r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128679/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128679/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f015r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f015v" corresp="#Dik12230_f015v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128680/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128680/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f015V" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f016r" corresp="#Dik12230_f016r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128681/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128681/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f016r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f016v" corresp="#Dik12230_f016v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128682/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128682/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f016v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f017r" corresp="#Dik12230_f017r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128683/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128683/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f017r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f017v" corresp="#Dik12230_f017v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128684/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128684/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f017v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f018r" corresp="#Dik12230_f018r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128685/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128685/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f018r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f018v" corresp="#Dik12230_f018v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128686/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128686/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f018v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f019r" corresp="#Dik12230_f019r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128687/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128687/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f019r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f019v" corresp="#Dik12230_f019v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128688/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128688/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f019v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f020r" corresp="#Dik12230_f020r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128689/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128689/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f020r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f020v" corresp="#Dik12230_f020v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128690/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128690/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f020v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f021r" corresp="#Dik12230_f021r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128691/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128691/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f021r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f021v" corresp="#Dik12230_f021v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128692/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128692/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f021v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f022r" corresp="#Dik12230_f022r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128693/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128693/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f022r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f022v" corresp="#Dik12230_f022v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128694/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128694/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f022v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f023r" corresp="#Dik12230_f023r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128695/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128695/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f023r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f023v" corresp="#Dik12230_f023v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128696/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128696/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f023v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f024r" corresp="#Dik12230_f024r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128697/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128697/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f024r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f024v" corresp="#Dik12230_f024v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128698/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128698/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f024v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f025r" corresp="#Dik12230_f025r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128699/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128699/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f025r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f025v" corresp="#Dik12230_f025v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128700/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128700/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f025v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f026r" corresp="#Dik12230_f026r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128701/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128701/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f026r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f026v" corresp="#Dik12230_f026v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128702/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128702/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f026v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f027r" corresp="#Dik12230_f027r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128703/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128703/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f027r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f027v" corresp="#Dik12230_f027v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128704/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128704/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f027v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f028r" corresp="#Dik12230_f028r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128705/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128705/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f028r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f028v" corresp="#Dik12230_f028v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128706/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128706/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f028v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f029r" corresp="#Dik12230_f029r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128707/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128707/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f029r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f029v" corresp="#Dik12230_f029v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128708/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128708/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f029v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f030r" corresp="#Dik12230_f030r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128709/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128709/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f030r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f030v" corresp="#Dik12230_f030v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128710/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128710/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f030v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f031r" corresp="#Dik12230_f031r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128711/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128711/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f031r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f031v" corresp="#Dik12230_f031v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128712/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128712/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f031v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f032r" corresp="#Dik12230_f032r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128713/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128713/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f032r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f032v" corresp="#Dik12230_f032v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128714/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128714/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f032v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f033r" corresp="#Dik12230_f033r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128715/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128715/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f033r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f033v" corresp="#Dik12230_f033v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128716/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128716/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f033v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f034r" corresp="#Dik12230_f034r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128717/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128717/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f034r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f034v" corresp="#Dik12230_f034v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128718/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128718/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f034v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f035r" corresp="#Dik12230_f035r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128719/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128719/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f035r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f035v" corresp="#Dik12230_f035v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128720/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128720/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f035v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f036r" corresp="#Dik12230_f036r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128721/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128721/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f036r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f036v" corresp="#Dik12230_f036v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128722/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128722/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f036v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f037r" corresp="#Dik12230_f037r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128723/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128723/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f037r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f037v" corresp="#Dik12230_f037v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128724/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128724/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f037v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f038r" corresp="#Dik12230_f038r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128725/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128725/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f038r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f038v" corresp="#Dik12230_f038v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128726/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128726/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f038v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f039r" corresp="#Dik12230_f039r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128727/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128727/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f039r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f039v" corresp="#Dik12230_f039v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128728/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128728/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f039v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f040r" corresp="#Dik12230_f040r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128729/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128729/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f040r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f040v" corresp="#Dik12230_f040v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128730/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128730/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f040v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f041r" corresp="#Dik12230_f041r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128731/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128731/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f041r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f041v" corresp="#Dik12230_f041v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128732/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128732/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f041v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f042r" corresp="#Dik12230_f042r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128733/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128733/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f042r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f042v" corresp="#Dik12230_f042v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128734/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128734/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f042v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f043r" corresp="#Dik12230_f043r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128735/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128735/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f043r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f043v" corresp="#Dik12230_f043v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128736/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128736/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f043v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f044r" corresp="#Dik12230_f044r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128737/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128737/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f044r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f044v" corresp="#Dik12230_f044v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128738/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128738/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f044v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f045r" corresp="#Dik12230_f045r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128739/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128739/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f045r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f045v" corresp="#Dik12230_f045v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128740/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128740/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f045v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f046r" corresp="#Dik12230_f046r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128741/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128741/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f046r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f046v" corresp="#Dik12230_f046v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128742/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128742/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f046v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f047r" corresp="#Dik12230_f047r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128743/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128743/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f047r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f047v" corresp="#Dik12230_f047v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128744/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128744/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f047v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f048r" corresp="#Dik12230_f048r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128745/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128745/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f048r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f048v" corresp="#Dik12230_f048v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128746/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128746/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f048v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f049r" corresp="#Dik12230_f049r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128747/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128747/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f049r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f049v" corresp="#Dik12230_f049v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128748/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128748/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f049v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f050r" corresp="#Dik12230_f050r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128749/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128749/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f050r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f050v" corresp="#Dik12230_f050v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128750/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128750/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f050v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f051r" corresp="#Dik12230_f051r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128751/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128751/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f051r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f051v" corresp="#Dik12230_f051v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128752/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128752/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f051v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f052r" corresp="#Dik12230_f052r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128753/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128753/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f052r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f052v" corresp="#Dik12230_f052v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128754/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128754/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f052v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f053r" corresp="#Dik12230_f053r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128755/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128755/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f053r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f053v" corresp="#Dik12230_f053v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128756/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128756/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f053v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f054r" corresp="#Dik12230_f054r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128757/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128757/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f054r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f054v" corresp="#Dik12230_f054v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128758/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128758/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f054v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f055r" corresp="#Dik12230_f055r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128759/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128759/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f055r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f055v" corresp="#Dik12230_f055v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128760/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128760/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f055v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f056r" corresp="#Dik12230_f056r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128761/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128761/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f056r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f056v" corresp="#Dik12230_f056v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128762/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128762/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f056v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f057r" corresp="#Dik12230_f057r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128763/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128763/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f057r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f057v" corresp="#Dik12230_f057v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128764/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128764/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f057v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f058r" corresp="#Dik12230_f058r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128765/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128765/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f058r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f058v" corresp="#Dik12230_f058v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128766/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128766/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f058v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f059r" corresp="#Dik12230_f059r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128767/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128767/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f059r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f059v" corresp="#Dik12230_f059v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128768/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128768/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f059v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f060r" corresp="#Dik12230_f060r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128769/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128769/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f060r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f060v" corresp="#Dik12230_f060v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128770/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128770/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f060v" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f061r" corresp="#Dik12230_f061r">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128771/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128771/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f061r" rend="visible"/>
       </surface>
       <surface xml:id="Dik12230_surf_f061v" corresp="#Dik12230_f061v">
-         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128772/full/full/0/default.jpg" width="3794px" height="6186px">
+         <graphic url="https://ids.lib.harvard.edu/ids/iiif/422128772/full/pct:50/0/default.jpg">
             <desc>Imagen de alta resolución</desc>
          </graphic>
          <zone corresp="#Dik12230_f061v" rend="visible"/>
@@ -794,370 +794,370 @@
    <text>
       <body>
          <div n="de l" type="Transcripción" xml:id="Dik12230_transcr">
-            <pb n="Harvard Ms Typ 222, f. 1r" facs="https://ids.lib.harvard.edu/ids/iiif/422128651/full/full/0/default.jpg" xml:id="Dik12230_f001r"/>
+            <pb n="Harvard Ms Typ 222, f. 1r" facs="https://ids.lib.harvard.edu/ids/iiif/422128651/full/pct:50/0/default.jpg" xml:id="Dik12230_f001r"/>
             <p style="title">Banda decorativa</p>
             <p>El libro comienza con una iluminación de fondo dorado flanqueada por arriba y por abajo por una cornisa de color azul, y por los laterales por dos animales fantásticos que miran hacia fuera. Estos seres tienen cabeza de león con la lengua fuera, en color rojo; cuerpo emplumado de color azul, con unas grandes alas verdes como de dragón, y cola de serpiente en verde. En el centro se ha dejado el hueco para pintar un escudo. Está rodeado por una banda en azul y rojo. A su vez, esta banda, en el espacio que queda entre ella y las figuras de los extremos, está ocupado por dos flores azules que salen desde la parte superior e inferior del elemento central y que, a modo de cornucopia, franquean frutas (se distinguen un melón, moras) y hojas.</p>
-            <pb n="Harvard Ms Typ 222, f. 1v" facs="https://ids.lib.harvard.edu/ids/iiif/422128652/full/full/0/default.jpg" xml:id="Dik12230_f001v"/>
+            <pb n="Harvard Ms Typ 222, f. 1v" facs="https://ids.lib.harvard.edu/ids/iiif/422128652/full/pct:50/0/default.jpg" xml:id="Dik12230_f001v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 2r" facs="https://ids.lib.harvard.edu/ids/iiif/422128653/full/full/0/default.jpg" xml:id="Dik12230_f002r"/>
+            <pb n="Harvard Ms Typ 222, f. 2r" facs="https://ids.lib.harvard.edu/ids/iiif/422128653/full/pct:50/0/default.jpg" xml:id="Dik12230_f002r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 2v" facs="https://ids.lib.harvard.edu/ids/iiif/422128654/full/full/0/default.jpg" xml:id="Dik12230_f002v"/>
+            <pb n="Harvard Ms Typ 222, f. 2v" facs="https://ids.lib.harvard.edu/ids/iiif/422128654/full/pct:50/0/default.jpg" xml:id="Dik12230_f002v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 3r" facs="https://ids.lib.harvard.edu/ids/iiif/422128655/full/full/0/default.jpg" xml:id="Dik12230_f003r"/>
+            <pb n="Harvard Ms Typ 222, f. 3r" facs="https://ids.lib.harvard.edu/ids/iiif/422128655/full/pct:50/0/default.jpg" xml:id="Dik12230_f003r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 3v" facs="https://ids.lib.harvard.edu/ids/iiif/422128656/full/full/0/default.jpg" xml:id="Dik12230_f003v"/>
+            <pb n="Harvard Ms Typ 222, f. 3v" facs="https://ids.lib.harvard.edu/ids/iiif/422128656/full/pct:50/0/default.jpg" xml:id="Dik12230_f003v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 4r" facs="https://ids.lib.harvard.edu/ids/iiif/422128657/full/full/0/default.jpg" xml:id="Dik12230_f004r"/>
+            <pb n="Harvard Ms Typ 222, f. 4r" facs="https://ids.lib.harvard.edu/ids/iiif/422128657/full/pct:50/0/default.jpg" xml:id="Dik12230_f004r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 4v" facs="https://ids.lib.harvard.edu/ids/iiif/422128658/full/full/0/default.jpg" xml:id="Dik12230_f004v"/>
+            <pb n="Harvard Ms Typ 222, f. 4v" facs="https://ids.lib.harvard.edu/ids/iiif/422128658/full/pct:50/0/default.jpg" xml:id="Dik12230_f004v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 5r" facs="https://ids.lib.harvard.edu/ids/iiif/422128659/full/full/0/default.jpg" xml:id="Dik12230_f005r"/>
+            <pb n="Harvard Ms Typ 222, f. 5r" facs="https://ids.lib.harvard.edu/ids/iiif/422128659/full/pct:50/0/default.jpg" xml:id="Dik12230_f005r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 5v" facs="https://ids.lib.harvard.edu/ids/iiif/422128660/full/full/0/default.jpg" xml:id="Dik12230_f005v"/>
+            <pb n="Harvard Ms Typ 222, f. 5v" facs="https://ids.lib.harvard.edu/ids/iiif/422128660/full/pct:50/0/default.jpg" xml:id="Dik12230_f005v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 6r" facs="https://ids.lib.harvard.edu/ids/iiif/422128661/full/full/0/default.jpg" xml:id="Dik12230_f006r"/>
+            <pb n="Harvard Ms Typ 222, f. 6r" facs="https://ids.lib.harvard.edu/ids/iiif/422128661/full/pct:50/0/default.jpg" xml:id="Dik12230_f006r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 6v" facs="https://ids.lib.harvard.edu/ids/iiif/422128662/full/full/0/default.jpg" xml:id="Dik12230_f006v"/>
+            <pb n="Harvard Ms Typ 222, f. 6v" facs="https://ids.lib.harvard.edu/ids/iiif/422128662/full/pct:50/0/default.jpg" xml:id="Dik12230_f006v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 7r" facs="https://ids.lib.harvard.edu/ids/iiif/422128663/full/full/0/default.jpg" xml:id="Dik12230_f007r"/>
+            <pb n="Harvard Ms Typ 222, f. 7r" facs="https://ids.lib.harvard.edu/ids/iiif/422128663/full/pct:50/0/default.jpg" xml:id="Dik12230_f007r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 7v" facs="https://ids.lib.harvard.edu/ids/iiif/422128664/full/full/0/default.jpg" xml:id="Dik12230_f007v"/>
+            <pb n="Harvard Ms Typ 222, f. 7v" facs="https://ids.lib.harvard.edu/ids/iiif/422128664/full/pct:50/0/default.jpg" xml:id="Dik12230_f007v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 8r" facs="https://ids.lib.harvard.edu/ids/iiif/422128665/full/full/0/default.jpg" xml:id="Dik12230_f008r"/>
+            <pb n="Harvard Ms Typ 222, f. 8r" facs="https://ids.lib.harvard.edu/ids/iiif/422128665/full/pct:50/0/default.jpg" xml:id="Dik12230_f008r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 8v" facs="https://ids.lib.harvard.edu/ids/iiif/422128666/full/full/0/default.jpg" xml:id="Dik12230_f008v"/>
+            <pb n="Harvard Ms Typ 222, f. 8v" facs="https://ids.lib.harvard.edu/ids/iiif/422128666/full/pct:50/0/default.jpg" xml:id="Dik12230_f008v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 9r" facs="https://ids.lib.harvard.edu/ids/iiif/422128667/full/full/0/default.jpg" xml:id="Dik12230_f009r"/>
+            <pb n="Harvard Ms Typ 222, f. 9r" facs="https://ids.lib.harvard.edu/ids/iiif/422128667/full/pct:50/0/default.jpg" xml:id="Dik12230_f009r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 9v" facs="https://ids.lib.harvard.edu/ids/iiif/422128668/full/full/0/default.jpg" xml:id="Dik12230_f009v"/>
+            <pb n="Harvard Ms Typ 222, f. 9v" facs="https://ids.lib.harvard.edu/ids/iiif/422128668/full/pct:50/0/default.jpg" xml:id="Dik12230_f009v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 10r" facs="https://ids.lib.harvard.edu/ids/iiif/422128669/full/full/0/default.jpg" xml:id="Dik12230_f0010r"/>
+            <pb n="Harvard Ms Typ 222, f. 10r" facs="https://ids.lib.harvard.edu/ids/iiif/422128669/full/pct:50/0/default.jpg" xml:id="Dik12230_f0010r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 10v" facs="https://ids.lib.harvard.edu/ids/iiif/422128670/full/full/0/default.jpg" xml:id="Dik12230_f010v"/>
+            <pb n="Harvard Ms Typ 222, f. 10v" facs="https://ids.lib.harvard.edu/ids/iiif/422128670/full/pct:50/0/default.jpg" xml:id="Dik12230_f010v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 11r" facs="https://ids.lib.harvard.edu/ids/iiif/422128671/full/full/0/default.jpg" xml:id="Dik12230_f011r"/>
+            <pb n="Harvard Ms Typ 222, f. 11r" facs="https://ids.lib.harvard.edu/ids/iiif/422128671/full/pct:50/0/default.jpg" xml:id="Dik12230_f011r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 11v" facs="https://ids.lib.harvard.edu/ids/iiif/422128672/full/full/0/default.jpg" xml:id="Dik12230_f011v"/>
+            <pb n="Harvard Ms Typ 222, f. 11v" facs="https://ids.lib.harvard.edu/ids/iiif/422128672/full/pct:50/0/default.jpg" xml:id="Dik12230_f011v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 12r" facs="https://ids.lib.harvard.edu/ids/iiif/422128673/full/full/0/default.jpg" xml:id="Dik12230_f012r"/>
+            <pb n="Harvard Ms Typ 222, f. 12r" facs="https://ids.lib.harvard.edu/ids/iiif/422128673/full/pct:50/0/default.jpg" xml:id="Dik12230_f012r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 12v" facs="https://ids.lib.harvard.edu/ids/iiif/422128674/full/full/0/default.jpg" xml:id="Dik12230_f012v"/>
+            <pb n="Harvard Ms Typ 222, f. 12v" facs="https://ids.lib.harvard.edu/ids/iiif/422128674/full/pct:50/0/default.jpg" xml:id="Dik12230_f012v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 13r" facs="https://ids.lib.harvard.edu/ids/iiif/422128675/full/full/0/default.jpg" xml:id="Dik12230_f013r"/>
+            <pb n="Harvard Ms Typ 222, f. 13r" facs="https://ids.lib.harvard.edu/ids/iiif/422128675/full/pct:50/0/default.jpg" xml:id="Dik12230_f013r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 13v" facs="https://ids.lib.harvard.edu/ids/iiif/422128676/full/full/0/default.jpg" xml:id="Dik12230_f013v"/>
+            <pb n="Harvard Ms Typ 222, f. 13v" facs="https://ids.lib.harvard.edu/ids/iiif/422128676/full/pct:50/0/default.jpg" xml:id="Dik12230_f013v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 14r" facs="https://ids.lib.harvard.edu/ids/iiif/422128677/full/full/0/default.jpg" xml:id="Dik12230_f014r"/>
+            <pb n="Harvard Ms Typ 222, f. 14r" facs="https://ids.lib.harvard.edu/ids/iiif/422128677/full/pct:50/0/default.jpg" xml:id="Dik12230_f014r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 14v" facs="https://ids.lib.harvard.edu/ids/iiif/422128678/full/full/0/default.jpg" xml:id="Dik12230_f014v"/>
+            <pb n="Harvard Ms Typ 222, f. 14v" facs="https://ids.lib.harvard.edu/ids/iiif/422128678/full/pct:50/0/default.jpg" xml:id="Dik12230_f014v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 15r" facs="https://ids.lib.harvard.edu/ids/iiif/422128679/full/full/0/default.jpg" xml:id="Dik12230_f015r"/>
+            <pb n="Harvard Ms Typ 222, f. 15r" facs="https://ids.lib.harvard.edu/ids/iiif/422128679/full/pct:50/0/default.jpg" xml:id="Dik12230_f015r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 15v" facs="https://ids.lib.harvard.edu/ids/iiif/422126880/full/full/0/default.jpg" xml:id="Dik12230_f015v"/>
+            <pb n="Harvard Ms Typ 222, f. 15v" facs="https://ids.lib.harvard.edu/ids/iiif/422126880/full/pct:50/0/default.jpg" xml:id="Dik12230_f015v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 16r" facs="https://ids.lib.harvard.edu/ids/iiif/422128681/full/full/0/default.jpg" xml:id="Dik12230_f016r"/>
+            <pb n="Harvard Ms Typ 222, f. 16r" facs="https://ids.lib.harvard.edu/ids/iiif/422128681/full/pct:50/0/default.jpg" xml:id="Dik12230_f016r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 16v" facs="https://ids.lib.harvard.edu/ids/iiif/422128682/full/full/0/default.jpg" xml:id="Dik12230_f016v"/>
+            <pb n="Harvard Ms Typ 222, f. 16v" facs="https://ids.lib.harvard.edu/ids/iiif/422128682/full/pct:50/0/default.jpg" xml:id="Dik12230_f016v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 17r" facs="https://ids.lib.harvard.edu/ids/iiif/422128683/full/full/0/default.jpg" xml:id="Dik12230_f017r"/>
+            <pb n="Harvard Ms Typ 222, f. 17r" facs="https://ids.lib.harvard.edu/ids/iiif/422128683/full/pct:50/0/default.jpg" xml:id="Dik12230_f017r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 17v" facs="https://ids.lib.harvard.edu/ids/iiif/422128684/full/full/0/default.jpg" xml:id="Dik12230_f017v"/>
+            <pb n="Harvard Ms Typ 222, f. 17v" facs="https://ids.lib.harvard.edu/ids/iiif/422128684/full/pct:50/0/default.jpg" xml:id="Dik12230_f017v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 18r" facs="https://ids.lib.harvard.edu/ids/iiif/422128685/full/full/0/default.jpg" xml:id="Dik12230_f018r"/>
+            <pb n="Harvard Ms Typ 222, f. 18r" facs="https://ids.lib.harvard.edu/ids/iiif/422128685/full/pct:50/0/default.jpg" xml:id="Dik12230_f018r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 18v" facs="https://ids.lib.harvard.edu/ids/iiif/422128686/full/full/0/default.jpg" xml:id="Dik12230_f018v"/>
+            <pb n="Harvard Ms Typ 222, f. 18v" facs="https://ids.lib.harvard.edu/ids/iiif/422128686/full/pct:50/0/default.jpg" xml:id="Dik12230_f018v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 19r" facs="https://ids.lib.harvard.edu/ids/iiif/422128687/full/full/0/default.jpg" xml:id="Dik12230_f019r"/>
+            <pb n="Harvard Ms Typ 222, f. 19r" facs="https://ids.lib.harvard.edu/ids/iiif/422128687/full/pct:50/0/default.jpg" xml:id="Dik12230_f019r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 19v" facs="https://ids.lib.harvard.edu/ids/iiif/422128688/full/full/0/default.jpg" xml:id="Dik12230_f019v"/>
+            <pb n="Harvard Ms Typ 222, f. 19v" facs="https://ids.lib.harvard.edu/ids/iiif/422128688/full/pct:50/0/default.jpg" xml:id="Dik12230_f019v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 20r" facs="https://ids.lib.harvard.edu/ids/iiif/422128689/full/full/0/default.jpg" xml:id="Dik12230_f020r"/>
+            <pb n="Harvard Ms Typ 222, f. 20r" facs="https://ids.lib.harvard.edu/ids/iiif/422128689/full/pct:50/0/default.jpg" xml:id="Dik12230_f020r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 20v" facs="https://ids.lib.harvard.edu/ids/iiif/422128690/full/full/0/default.jpg" xml:id="Dik12230_f020v"/>
+            <pb n="Harvard Ms Typ 222, f. 20v" facs="https://ids.lib.harvard.edu/ids/iiif/422128690/full/pct:50/0/default.jpg" xml:id="Dik12230_f020v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 21r" facs="https://ids.lib.harvard.edu/ids/iiif/422128691/full/full/0/default.jpg" xml:id="Dik12230_f021r"/>
+            <pb n="Harvard Ms Typ 222, f. 21r" facs="https://ids.lib.harvard.edu/ids/iiif/422128691/full/pct:50/0/default.jpg" xml:id="Dik12230_f021r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 21v" facs="https://ids.lib.harvard.edu/ids/iiif/422128692/full/full/0/default.jpg" xml:id="Dik12230_f021v"/>
+            <pb n="Harvard Ms Typ 222, f. 21v" facs="https://ids.lib.harvard.edu/ids/iiif/422128692/full/pct:50/0/default.jpg" xml:id="Dik12230_f021v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 22r" facs="https://ids.lib.harvard.edu/ids/iiif/422128693/full/full/0/default.jpg" xml:id="Dik12230_f022r"/>
+            <pb n="Harvard Ms Typ 222, f. 22r" facs="https://ids.lib.harvard.edu/ids/iiif/422128693/full/pct:50/0/default.jpg" xml:id="Dik12230_f022r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 22v" facs="https://ids.lib.harvard.edu/ids/iiif/422128694/full/full/0/default.jpg" xml:id="Dik12230_f022v"/>
+            <pb n="Harvard Ms Typ 222, f. 22v" facs="https://ids.lib.harvard.edu/ids/iiif/422128694/full/pct:50/0/default.jpg" xml:id="Dik12230_f022v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 23r" facs="https://ids.lib.harvard.edu/ids/iiif/422128695/full/full/0/default.jpg" xml:id="Dik12230_f023r"/>
+            <pb n="Harvard Ms Typ 222, f. 23r" facs="https://ids.lib.harvard.edu/ids/iiif/422128695/full/pct:50/0/default.jpg" xml:id="Dik12230_f023r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 23v" facs="https://ids.lib.harvard.edu/ids/iiif/422128696/full/full/0/default.jpg" xml:id="Dik12230_f023v"/>
+            <pb n="Harvard Ms Typ 222, f. 23v" facs="https://ids.lib.harvard.edu/ids/iiif/422128696/full/pct:50/0/default.jpg" xml:id="Dik12230_f023v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 24r" facs="https://ids.lib.harvard.edu/ids/iiif/422128697/full/full/0/default.jpg" xml:id="Dik12230_f024r"/>
+            <pb n="Harvard Ms Typ 222, f. 24r" facs="https://ids.lib.harvard.edu/ids/iiif/422128697/full/pct:50/0/default.jpg" xml:id="Dik12230_f024r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 24v" facs="https://ids.lib.harvard.edu/ids/iiif/422128698/full/full/0/default.jpg" xml:id="Dik12230_f024v"/>
+            <pb n="Harvard Ms Typ 222, f. 24v" facs="https://ids.lib.harvard.edu/ids/iiif/422128698/full/pct:50/0/default.jpg" xml:id="Dik12230_f024v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 25r" facs="https://ids.lib.harvard.edu/ids/iiif/422128699/full/full/0/default.jpg" xml:id="Dik12230_f025r"/>
+            <pb n="Harvard Ms Typ 222, f. 25r" facs="https://ids.lib.harvard.edu/ids/iiif/422128699/full/pct:50/0/default.jpg" xml:id="Dik12230_f025r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 25v" facs="https://ids.lib.harvard.edu/ids/iiif/422128700/full/full/0/default.jpg" xml:id="Dik12230_f025v"/>
+            <pb n="Harvard Ms Typ 222, f. 25v" facs="https://ids.lib.harvard.edu/ids/iiif/422128700/full/pct:50/0/default.jpg" xml:id="Dik12230_f025v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 26r" facs="https://ids.lib.harvard.edu/ids/iiif/422128701/full/full/0/default.jpg" xml:id="Dik12230_f026r"/>
+            <pb n="Harvard Ms Typ 222, f. 26r" facs="https://ids.lib.harvard.edu/ids/iiif/422128701/full/pct:50/0/default.jpg" xml:id="Dik12230_f026r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 26v" facs="https://ids.lib.harvard.edu/ids/iiif/422128702/full/full/0/default.jpg" xml:id="Dik12230_f026v"/>
+            <pb n="Harvard Ms Typ 222, f. 26v" facs="https://ids.lib.harvard.edu/ids/iiif/422128702/full/pct:50/0/default.jpg" xml:id="Dik12230_f026v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 27r" facs="https://ids.lib.harvard.edu/ids/iiif/422128703/full/full/0/default.jpg" xml:id="Dik12230_f027r"/>
+            <pb n="Harvard Ms Typ 222, f. 27r" facs="https://ids.lib.harvard.edu/ids/iiif/422128703/full/pct:50/0/default.jpg" xml:id="Dik12230_f027r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 27v" facs="https://ids.lib.harvard.edu/ids/iiif/422128704/full/full/0/default.jpg" xml:id="Dik12230_f027v"/>
+            <pb n="Harvard Ms Typ 222, f. 27v" facs="https://ids.lib.harvard.edu/ids/iiif/422128704/full/pct:50/0/default.jpg" xml:id="Dik12230_f027v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 28r" facs="https://ids.lib.harvard.edu/ids/iiif/422128705/full/full/0/default.jpg" xml:id="Dik12230_f028r"/>
+            <pb n="Harvard Ms Typ 222, f. 28r" facs="https://ids.lib.harvard.edu/ids/iiif/422128705/full/pct:50/0/default.jpg" xml:id="Dik12230_f028r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 28v" facs="https://ids.lib.harvard.edu/ids/iiif/422128706/full/full/0/default.jpg" xml:id="Dik12230_f028v"/>
+            <pb n="Harvard Ms Typ 222, f. 28v" facs="https://ids.lib.harvard.edu/ids/iiif/422128706/full/pct:50/0/default.jpg" xml:id="Dik12230_f028v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 29r" facs="https://ids.lib.harvard.edu/ids/iiif/422128707/full/full/0/default.jpg" xml:id="Dik12230_f029r"/>
+            <pb n="Harvard Ms Typ 222, f. 29r" facs="https://ids.lib.harvard.edu/ids/iiif/422128707/full/pct:50/0/default.jpg" xml:id="Dik12230_f029r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 29v" facs="https://ids.lib.harvard.edu/ids/iiif/422128708/full/full/0/default.jpg" xml:id="Dik12230_f029v"/>
+            <pb n="Harvard Ms Typ 222, f. 29v" facs="https://ids.lib.harvard.edu/ids/iiif/422128708/full/pct:50/0/default.jpg" xml:id="Dik12230_f029v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 30r" facs="https://ids.lib.harvard.edu/ids/iiif/422128709/full/full/0/default.jpg" xml:id="Dik12230_f030r"/>
+            <pb n="Harvard Ms Typ 222, f. 30r" facs="https://ids.lib.harvard.edu/ids/iiif/422128709/full/pct:50/0/default.jpg" xml:id="Dik12230_f030r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 30v" facs="https://ids.lib.harvard.edu/ids/iiif/422128710/full/full/0/default.jpg" xml:id="Dik12230_f030v"/>
+            <pb n="Harvard Ms Typ 222, f. 30v" facs="https://ids.lib.harvard.edu/ids/iiif/422128710/full/pct:50/0/default.jpg" xml:id="Dik12230_f030v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 31r" facs="https://ids.lib.harvard.edu/ids/iiif/422128711/full/full/0/default.jpg" xml:id="Dik12230_f031r"/>
+            <pb n="Harvard Ms Typ 222, f. 31r" facs="https://ids.lib.harvard.edu/ids/iiif/422128711/full/pct:50/0/default.jpg" xml:id="Dik12230_f031r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 31v" facs="https://ids.lib.harvard.edu/ids/iiif/422128712/full/full/0/default.jpg" xml:id="Dik12230_f031v"/>
+            <pb n="Harvard Ms Typ 222, f. 31v" facs="https://ids.lib.harvard.edu/ids/iiif/422128712/full/pct:50/0/default.jpg" xml:id="Dik12230_f031v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 32r" facs="https://ids.lib.harvard.edu/ids/iiif/422128713/full/full/0/default.jpg" xml:id="Dik12230_f032r"/>
+            <pb n="Harvard Ms Typ 222, f. 32r" facs="https://ids.lib.harvard.edu/ids/iiif/422128713/full/pct:50/0/default.jpg" xml:id="Dik12230_f032r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 32v" facs="https://ids.lib.harvard.edu/ids/iiif/422128714/full/full/0/default.jpg" xml:id="Dik12230_f032v"/>
+            <pb n="Harvard Ms Typ 222, f. 32v" facs="https://ids.lib.harvard.edu/ids/iiif/422128714/full/pct:50/0/default.jpg" xml:id="Dik12230_f032v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 33r" facs="https://ids.lib.harvard.edu/ids/iiif/422128715/full/full/0/default.jpg" xml:id="Dik12230_f033r"/>
+            <pb n="Harvard Ms Typ 222, f. 33r" facs="https://ids.lib.harvard.edu/ids/iiif/422128715/full/pct:50/0/default.jpg" xml:id="Dik12230_f033r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 33v" facs="https://ids.lib.harvard.edu/ids/iiif/422128716/full/full/0/default.jpg" xml:id="Dik12230_f033v"/>
+            <pb n="Harvard Ms Typ 222, f. 33v" facs="https://ids.lib.harvard.edu/ids/iiif/422128716/full/pct:50/0/default.jpg" xml:id="Dik12230_f033v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 34r" facs="https://ids.lib.harvard.edu/ids/iiif/422128717/full/full/0/default.jpg" xml:id="Dik12230_f034r"/>
+            <pb n="Harvard Ms Typ 222, f. 34r" facs="https://ids.lib.harvard.edu/ids/iiif/422128717/full/pct:50/0/default.jpg" xml:id="Dik12230_f034r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 34v" facs="https://ids.lib.harvard.edu/ids/iiif/422128718/full/full/0/default.jpg" xml:id="Dik12230_f034v"/>
+            <pb n="Harvard Ms Typ 222, f. 34v" facs="https://ids.lib.harvard.edu/ids/iiif/422128718/full/pct:50/0/default.jpg" xml:id="Dik12230_f034v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 35r" facs="https://ids.lib.harvard.edu/ids/iiif/422128719/full/full/0/default.jpg" xml:id="Dik12230_f035r"/>
+            <pb n="Harvard Ms Typ 222, f. 35r" facs="https://ids.lib.harvard.edu/ids/iiif/422128719/full/pct:50/0/default.jpg" xml:id="Dik12230_f035r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 35v" facs="https://ids.lib.harvard.edu/ids/iiif/422128720/full/full/0/default.jpg" xml:id="Dik12230_f035v"/>
+            <pb n="Harvard Ms Typ 222, f. 35v" facs="https://ids.lib.harvard.edu/ids/iiif/422128720/full/pct:50/0/default.jpg" xml:id="Dik12230_f035v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 36r" facs="https://ids.lib.harvard.edu/ids/iiif/422128721/full/full/0/default.jpg" xml:id="Dik12230_f036r"/>
+            <pb n="Harvard Ms Typ 222, f. 36r" facs="https://ids.lib.harvard.edu/ids/iiif/422128721/full/pct:50/0/default.jpg" xml:id="Dik12230_f036r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 36v" facs="https://ids.lib.harvard.edu/ids/iiif/422128722/full/full/0/default.jpg" xml:id="Dik12230_f036v"/>
+            <pb n="Harvard Ms Typ 222, f. 36v" facs="https://ids.lib.harvard.edu/ids/iiif/422128722/full/pct:50/0/default.jpg" xml:id="Dik12230_f036v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 37r" facs="https://ids.lib.harvard.edu/ids/iiif/422128723/full/full/0/default.jpg" xml:id="Dik12230_f037r"/>
+            <pb n="Harvard Ms Typ 222, f. 37r" facs="https://ids.lib.harvard.edu/ids/iiif/422128723/full/pct:50/0/default.jpg" xml:id="Dik12230_f037r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 37v" facs="https://ids.lib.harvard.edu/ids/iiif/422128724/full/full/0/default.jpg" xml:id="Dik12230_f037v"/>
+            <pb n="Harvard Ms Typ 222, f. 37v" facs="https://ids.lib.harvard.edu/ids/iiif/422128724/full/pct:50/0/default.jpg" xml:id="Dik12230_f037v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 38r" facs="https://ids.lib.harvard.edu/ids/iiif/422128725/full/full/0/default.jpg" xml:id="Dik12230_f038r"/>
+            <pb n="Harvard Ms Typ 222, f. 38r" facs="https://ids.lib.harvard.edu/ids/iiif/422128725/full/pct:50/0/default.jpg" xml:id="Dik12230_f038r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 38v" facs="https://ids.lib.harvard.edu/ids/iiif/422128726/full/full/0/default.jpg" xml:id="Dik12230_f038v"/>
+            <pb n="Harvard Ms Typ 222, f. 38v" facs="https://ids.lib.harvard.edu/ids/iiif/422128726/full/pct:50/0/default.jpg" xml:id="Dik12230_f038v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 39r" facs="https://ids.lib.harvard.edu/ids/iiif/422128727/full/full/0/default.jpg" xml:id="Dik12230_f039r"/>
+            <pb n="Harvard Ms Typ 222, f. 39r" facs="https://ids.lib.harvard.edu/ids/iiif/422128727/full/pct:50/0/default.jpg" xml:id="Dik12230_f039r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 39v" facs="https://ids.lib.harvard.edu/ids/iiif/422128728/full/full/0/default.jpg" xml:id="Dik12230_f039v"/>
+            <pb n="Harvard Ms Typ 222, f. 39v" facs="https://ids.lib.harvard.edu/ids/iiif/422128728/full/pct:50/0/default.jpg" xml:id="Dik12230_f039v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 40r" facs="https://ids.lib.harvard.edu/ids/iiif/422128729/full/full/0/default.jpg" xml:id="Dik12230_f040r"/>
+            <pb n="Harvard Ms Typ 222, f. 40r" facs="https://ids.lib.harvard.edu/ids/iiif/422128729/full/pct:50/0/default.jpg" xml:id="Dik12230_f040r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 40v" facs="https://ids.lib.harvard.edu/ids/iiif/422128730/full/full/0/default.jpg" xml:id="Dik12230_f040v"/>
+            <pb n="Harvard Ms Typ 222, f. 40v" facs="https://ids.lib.harvard.edu/ids/iiif/422128730/full/pct:50/0/default.jpg" xml:id="Dik12230_f040v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 41r" facs="https://ids.lib.harvard.edu/ids/iiif/422128731/full/full/0/default.jpg" xml:id="Dik12230_f041r"/>
+            <pb n="Harvard Ms Typ 222, f. 41r" facs="https://ids.lib.harvard.edu/ids/iiif/422128731/full/pct:50/0/default.jpg" xml:id="Dik12230_f041r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 41v" facs="https://ids.lib.harvard.edu/ids/iiif/422128732/full/full/0/default.jpg" xml:id="Dik12230_f041v"/>
+            <pb n="Harvard Ms Typ 222, f. 41v" facs="https://ids.lib.harvard.edu/ids/iiif/422128732/full/pct:50/0/default.jpg" xml:id="Dik12230_f041v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 42r" facs="https://ids.lib.harvard.edu/ids/iiif/422128733/full/full/0/default.jpg" xml:id="Dik12230_f042r"/>
+            <pb n="Harvard Ms Typ 222, f. 42r" facs="https://ids.lib.harvard.edu/ids/iiif/422128733/full/pct:50/0/default.jpg" xml:id="Dik12230_f042r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 42v" facs="https://ids.lib.harvard.edu/ids/iiif/422128734/full/full/0/default.jpg" xml:id="Dik12230_f042v"/>
+            <pb n="Harvard Ms Typ 222, f. 42v" facs="https://ids.lib.harvard.edu/ids/iiif/422128734/full/pct:50/0/default.jpg" xml:id="Dik12230_f042v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 43r" facs="https://ids.lib.harvard.edu/ids/iiif/422128735/full/full/0/default.jpg" xml:id="Dik12230_f043r"/>
+            <pb n="Harvard Ms Typ 222, f. 43r" facs="https://ids.lib.harvard.edu/ids/iiif/422128735/full/pct:50/0/default.jpg" xml:id="Dik12230_f043r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 43v" facs="https://ids.lib.harvard.edu/ids/iiif/422128736/full/full/0/default.jpg" xml:id="Dik12230_f043v"/>
+            <pb n="Harvard Ms Typ 222, f. 43v" facs="https://ids.lib.harvard.edu/ids/iiif/422128736/full/pct:50/0/default.jpg" xml:id="Dik12230_f043v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 44r" facs="https://ids.lib.harvard.edu/ids/iiif/422128737/full/full/0/default.jpg" xml:id="Dik12230_f044r"/>
+            <pb n="Harvard Ms Typ 222, f. 44r" facs="https://ids.lib.harvard.edu/ids/iiif/422128737/full/pct:50/0/default.jpg" xml:id="Dik12230_f044r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 44v" facs="https://ids.lib.harvard.edu/ids/iiif/422128738/full/full/0/default.jpg" xml:id="Dik12230_f044v"/>
+            <pb n="Harvard Ms Typ 222, f. 44v" facs="https://ids.lib.harvard.edu/ids/iiif/422128738/full/pct:50/0/default.jpg" xml:id="Dik12230_f044v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 45r" facs="https://ids.lib.harvard.edu/ids/iiif/422128739/full/full/0/default.jpg" xml:id="Dik12230_f045r"/>
+            <pb n="Harvard Ms Typ 222, f. 45r" facs="https://ids.lib.harvard.edu/ids/iiif/422128739/full/pct:50/0/default.jpg" xml:id="Dik12230_f045r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 45v" facs="https://ids.lib.harvard.edu/ids/iiif/422128740/full/full/0/default.jpg" xml:id="Dik12230_f045v"/>
+            <pb n="Harvard Ms Typ 222, f. 45v" facs="https://ids.lib.harvard.edu/ids/iiif/422128740/full/pct:50/0/default.jpg" xml:id="Dik12230_f045v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 46r" facs="https://ids.lib.harvard.edu/ids/iiif/422128741/full/full/0/default.jpg" xml:id="Dik12230_f046r"/>
+            <pb n="Harvard Ms Typ 222, f. 46r" facs="https://ids.lib.harvard.edu/ids/iiif/422128741/full/pct:50/0/default.jpg" xml:id="Dik12230_f046r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 46v" facs="https://ids.lib.harvard.edu/ids/iiif/422128742/full/full/0/default.jpg" xml:id="Dik12230_f046v"/>
+            <pb n="Harvard Ms Typ 222, f. 46v" facs="https://ids.lib.harvard.edu/ids/iiif/422128742/full/pct:50/0/default.jpg" xml:id="Dik12230_f046v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 47r" facs="https://ids.lib.harvard.edu/ids/iiif/422128743/full/full/0/default.jpg" xml:id="Dik12230_f047r"/>
+            <pb n="Harvard Ms Typ 222, f. 47r" facs="https://ids.lib.harvard.edu/ids/iiif/422128743/full/pct:50/0/default.jpg" xml:id="Dik12230_f047r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 47v" facs="https://ids.lib.harvard.edu/ids/iiif/422128744/full/full/0/default.jpg" xml:id="Dik12230_f047v"/>
+            <pb n="Harvard Ms Typ 222, f. 47v" facs="https://ids.lib.harvard.edu/ids/iiif/422128744/full/pct:50/0/default.jpg" xml:id="Dik12230_f047v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 48r" facs="https://ids.lib.harvard.edu/ids/iiif/422128745/full/full/0/default.jpg" xml:id="Dik12230_f048r"/>
+            <pb n="Harvard Ms Typ 222, f. 48r" facs="https://ids.lib.harvard.edu/ids/iiif/422128745/full/pct:50/0/default.jpg" xml:id="Dik12230_f048r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 48v" facs="https://ids.lib.harvard.edu/ids/iiif/422128746/full/full/0/default.jpg" xml:id="Dik12230_f048v"/>
+            <pb n="Harvard Ms Typ 222, f. 48v" facs="https://ids.lib.harvard.edu/ids/iiif/422128746/full/pct:50/0/default.jpg" xml:id="Dik12230_f048v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 49r" facs="https://ids.lib.harvard.edu/ids/iiif/422128747/full/full/0/default.jpg" xml:id="Dik12230_f049r"/>
+            <pb n="Harvard Ms Typ 222, f. 49r" facs="https://ids.lib.harvard.edu/ids/iiif/422128747/full/pct:50/0/default.jpg" xml:id="Dik12230_f049r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 49v" facs="https://ids.lib.harvard.edu/ids/iiif/422128748/full/full/0/default.jpg" xml:id="Dik12230_f049v"/>
+            <pb n="Harvard Ms Typ 222, f. 49v" facs="https://ids.lib.harvard.edu/ids/iiif/422128748/full/pct:50/0/default.jpg" xml:id="Dik12230_f049v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 50r" facs="https://ids.lib.harvard.edu/ids/iiif/422128749/full/full/0/default.jpg" xml:id="Dik12230_f050r"/>
+            <pb n="Harvard Ms Typ 222, f. 50r" facs="https://ids.lib.harvard.edu/ids/iiif/422128749/full/pct:50/0/default.jpg" xml:id="Dik12230_f050r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 50v" facs="https://ids.lib.harvard.edu/ids/iiif/422128750/full/full/0/default.jpg" xml:id="Dik12230_f050v"/>
+            <pb n="Harvard Ms Typ 222, f. 50v" facs="https://ids.lib.harvard.edu/ids/iiif/422128750/full/pct:50/0/default.jpg" xml:id="Dik12230_f050v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 50v" facs="https://ids.lib.harvard.edu/ids/iiif/422128751/full/full/0/default.jpg" xml:id="Dik12230_f050v"/>
+            <pb n="Harvard Ms Typ 222, f. 50v" facs="https://ids.lib.harvard.edu/ids/iiif/422128751/full/pct:50/0/default.jpg" xml:id="Dik12230_f050v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 51r" facs="https://ids.lib.harvard.edu/ids/iiif/422128752/full/full/0/default.jpg" xml:id="Dik12230_f051r"/>
+            <pb n="Harvard Ms Typ 222, f. 51r" facs="https://ids.lib.harvard.edu/ids/iiif/422128752/full/pct:50/0/default.jpg" xml:id="Dik12230_f051r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 51v" facs="https://ids.lib.harvard.edu/ids/iiif/422128753/full/full/0/default.jpg" xml:id="Dik12230_f051v"/>
+            <pb n="Harvard Ms Typ 222, f. 51v" facs="https://ids.lib.harvard.edu/ids/iiif/422128753/full/pct:50/0/default.jpg" xml:id="Dik12230_f051v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 52r" facs="https://ids.lib.harvard.edu/ids/iiif/422128754/full/full/0/default.jpg" xml:id="Dik12230_f052r"/>
+            <pb n="Harvard Ms Typ 222, f. 52r" facs="https://ids.lib.harvard.edu/ids/iiif/422128754/full/pct:50/0/default.jpg" xml:id="Dik12230_f052r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 52v" facs="https://ids.lib.harvard.edu/ids/iiif/422128755/full/full/0/default.jpg" xml:id="Dik12230_f052v"/>
+            <pb n="Harvard Ms Typ 222, f. 52v" facs="https://ids.lib.harvard.edu/ids/iiif/422128755/full/pct:50/0/default.jpg" xml:id="Dik12230_f052v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 53r" facs="https://ids.lib.harvard.edu/ids/iiif/422128756/full/full/0/default.jpg" xml:id="Dik12230_f053r"/>
+            <pb n="Harvard Ms Typ 222, f. 53r" facs="https://ids.lib.harvard.edu/ids/iiif/422128756/full/pct:50/0/default.jpg" xml:id="Dik12230_f053r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 53v" facs="https://ids.lib.harvard.edu/ids/iiif/422128757/full/full/0/default.jpg" xml:id="Dik12230_f053v"/>
+            <pb n="Harvard Ms Typ 222, f. 53v" facs="https://ids.lib.harvard.edu/ids/iiif/422128757/full/pct:50/0/default.jpg" xml:id="Dik12230_f053v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 54v" facs="https://ids.lib.harvard.edu/ids/iiif/422128758/full/full/0/default.jpg" xml:id="Dik12230_f054v"/>
+            <pb n="Harvard Ms Typ 222, f. 54v" facs="https://ids.lib.harvard.edu/ids/iiif/422128758/full/pct:50/0/default.jpg" xml:id="Dik12230_f054v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 55r" facs="https://ids.lib.harvard.edu/ids/iiif/422128759/full/full/0/default.jpg" xml:id="Dik12230_f055r"/>
+            <pb n="Harvard Ms Typ 222, f. 55r" facs="https://ids.lib.harvard.edu/ids/iiif/422128759/full/pct:50/0/default.jpg" xml:id="Dik12230_f055r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 55v" facs="https://ids.lib.harvard.edu/ids/iiif/422128760/full/full/0/default.jpg" xml:id="Dik12230_f055v"/>
+            <pb n="Harvard Ms Typ 222, f. 55v" facs="https://ids.lib.harvard.edu/ids/iiif/422128760/full/pct:50/0/default.jpg" xml:id="Dik12230_f055v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 56r" facs="https://ids.lib.harvard.edu/ids/iiif/422128761/full/full/0/default.jpg" xml:id="Dik12230_f056r"/>
+            <pb n="Harvard Ms Typ 222, f. 56r" facs="https://ids.lib.harvard.edu/ids/iiif/422128761/full/pct:50/0/default.jpg" xml:id="Dik12230_f056r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 56v" facs="https://ids.lib.harvard.edu/ids/iiif/422128762/full/full/0/default.jpg" xml:id="Dik12230_f056v"/>
+            <pb n="Harvard Ms Typ 222, f. 56v" facs="https://ids.lib.harvard.edu/ids/iiif/422128762/full/pct:50/0/default.jpg" xml:id="Dik12230_f056v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 57r" facs="https://ids.lib.harvard.edu/ids/iiif/422128763/full/full/0/default.jpg" xml:id="Dik12230_f057r"/>
+            <pb n="Harvard Ms Typ 222, f. 57r" facs="https://ids.lib.harvard.edu/ids/iiif/422128763/full/pct:50/0/default.jpg" xml:id="Dik12230_f057r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 57v" facs="https://ids.lib.harvard.edu/ids/iiif/422128764/full/full/0/default.jpg" xml:id="Dik12230_f057r"/>
+            <pb n="Harvard Ms Typ 222, f. 57v" facs="https://ids.lib.harvard.edu/ids/iiif/422128764/full/pct:50/0/default.jpg" xml:id="Dik12230_f057r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 58r" facs="https://ids.lib.harvard.edu/ids/iiif/422128765/full/full/0/default.jpg" xml:id="Dik12230_f058r"/>
+            <pb n="Harvard Ms Typ 222, f. 58r" facs="https://ids.lib.harvard.edu/ids/iiif/422128765/full/pct:50/0/default.jpg" xml:id="Dik12230_f058r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 58v" facs="https://ids.lib.harvard.edu/ids/iiif/422128766/full/full/0/default.jpg" xml:id="Dik12230_f058v"/>
+            <pb n="Harvard Ms Typ 222, f. 58v" facs="https://ids.lib.harvard.edu/ids/iiif/422128766/full/pct:50/0/default.jpg" xml:id="Dik12230_f058v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 59r" facs="https://ids.lib.harvard.edu/ids/iiif/422128767/full/full/0/default.jpg" xml:id="Dik12230_f059r"/>
+            <pb n="Harvard Ms Typ 222, f. 59r" facs="https://ids.lib.harvard.edu/ids/iiif/422128767/full/pct:50/0/default.jpg" xml:id="Dik12230_f059r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 59v" facs="https://ids.lib.harvard.edu/ids/iiif/422128768/full/full/0/default.jpg" xml:id="Dik12230_f059v"/>
+            <pb n="Harvard Ms Typ 222, f. 59v" facs="https://ids.lib.harvard.edu/ids/iiif/422128768/full/pct:50/0/default.jpg" xml:id="Dik12230_f059v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 60r" facs="https://ids.lib.harvard.edu/ids/iiif/422128769/full/full/0/default.jpg" xml:id="Dik12230_f060r"/>
+            <pb n="Harvard Ms Typ 222, f. 60r" facs="https://ids.lib.harvard.edu/ids/iiif/422128769/full/pct:50/0/default.jpg" xml:id="Dik12230_f060r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 60v" facs="https://ids.lib.harvard.edu/ids/iiif/422128770/full/full/0/default.jpg" xml:id="Dik12230_f060v"/>
+            <pb n="Harvard Ms Typ 222, f. 60v" facs="https://ids.lib.harvard.edu/ids/iiif/422128770/full/pct:50/0/default.jpg" xml:id="Dik12230_f060v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 61r" facs="https://ids.lib.harvard.edu/ids/iiif/422128771/full/full/0/default.jpg" xml:id="Dik12230_f061r"/>
+            <pb n="Harvard Ms Typ 222, f. 61r" facs="https://ids.lib.harvard.edu/ids/iiif/422128771/full/pct:50/0/default.jpg" xml:id="Dik12230_f061r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
-            <pb n="Harvard Ms Typ 222, f. 61v" facs="https://ids.lib.harvard.edu/ids/iiif/422128772/full/full/0/default.jpg" xml:id="Dik12230_f061v"/>
+            <pb n="Harvard Ms Typ 222, f. 61v" facs="https://ids.lib.harvard.edu/ids/iiif/422128772/full/pct:50/0/default.jpg" xml:id="Dik12230_f061v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
          </div>
