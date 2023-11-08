@@ -21,12 +21,13 @@
                </name><name xml:id="LSV">Luna Sánchez Vacas
                </name><name xml:id="RMS">Rubén Morillo Sánchez
                </name>
-               <name xml:id="IIPJ">Ignacio Isaac Pérez Jiménez
+               <name xml:id="IIPJ">Ignacio Isaac Pérez Jiménez</name>
                <name xml:id="SMS">Samuel Myeong So
-               </name><name xml:id="WEDP">Walter Enrique Delgado Pilatasig
+               </name>
+               <name xml:id="WEDP">Walter Enrique Delgado Pilatasig
                </name>
                <orgName>Colegio El Porvenir</orgName>
-            </respStmt>
+               </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1">
