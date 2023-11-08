@@ -13,7 +13,18 @@
             </respStmt>
             <respStmt>
                <resp>Descripción de las imágenes de </resp>
-               <name xml:id="xxx">Nombre Apellido Apellido</name>
+               <name xml:id="EME">Ethan Molinero Estevez
+               </name>
+               <name xml:id="AGS">Adriano Geitz Sampedro
+               </name>
+<name xml:id="APP">Alejandra Pérez Pérez
+               </name><name xml:id="LSV">Luna Sánchez Vacas
+               </name><name xml:id="RMS">Rubén Morillo Sánchez
+               </name>
+               <name xml:id="IIPJ">Ignacio Isaac Pérez Jiménez
+               <name xml:id="SMS">Samuel Myeong So
+               </name><name xml:id="WEDP">Walter Enrique Delgado Pilatasig
+               </name>
                <orgName>Colegio El Porvenir</orgName>
             </respStmt>
          </titleStmt>
@@ -29,7 +40,7 @@
             <address>
                <name type="institution">Centro de Ciencias Humanas y Sociales (CCHS)</name>
                <name type="institution">Consejo Superior de Investigaciones Científicas (CSIC)</name>
-               <street>C/ Albasanz 26-28, despacho 1B5</street>
+               <street>C/ Albasnz 26-28, despacho 1B5</street>
                <postCode>28037</postCode>
                <name type="city">Madrid</name>
                <name type="country">España</name>
@@ -834,8 +845,8 @@
             <p style="title">título de la imagen</p>
             <p>texto</p>
             <pb n="Harvard Ms Typ 222, f. 7v" facs="https://ids.lib.harvard.edu/ids/iiif/422128664/full/pct:50/0/default.jpg" xml:id="Dik12230_f007v"/>
-            <p style="title">título de la imagen</p>
-            <p>texto</p>
+            <p style="title">El sacrificio materno</p>
+            <p>tEn la primera imágen se observa a un cisne en su nido sacrificandose para alimentar a sus crias hambrientas.En la segunda imágen se ve a un cisne adulto que deducimos que es una de esas crias en un lago. Su aspecto en compartación con el de arriba muestra un gran desarrollo por el sacrificio materno.</p>
             <pb n="Harvard Ms Typ 222, f. 8r" facs="https://ids.lib.harvard.edu/ids/iiif/422128665/full/pct:50/0/default.jpg" xml:id="Dik12230_f008r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
@@ -951,8 +962,8 @@
             <p style="title">título de la imagen</p>
             <p>texto</p>
             <pb n="Harvard Ms Typ 222, f. 27r" facs="https://ids.lib.harvard.edu/ids/iiif/422128703/full/pct:50/0/default.jpg" xml:id="Dik12230_f027r"/>
-            <p style="title">título de la imagen</p>
-            <p>texto</p>
+            <p style="">Tifanteso </p>
+            <p>Nos encontramos ante un animal que se asemeja a un elefante, que tiene cuatro patas, pero cada una con varios dedos. Tiene en su piel rayas negras que se parecen a las que tienen los tigres. Se encuentra ubicado en un prado junto a un árbol. </p>
             <pb n="Harvard Ms Typ 222, f. 27v" facs="https://ids.lib.harvard.edu/ids/iiif/422128704/full/pct:50/0/default.jpg" xml:id="Dik12230_f027v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
@@ -1062,8 +1073,8 @@
             <p style="title">título de la imagen</p>
             <p>texto</p>
             <pb n="Harvard Ms Typ 222, f. 45v" facs="https://ids.lib.harvard.edu/ids/iiif/422128740/full/pct:50/0/default.jpg" xml:id="Dik12230_f045v"/>
-            <p style="title">título de la imagen</p>
-            <p>texto</p>
+            <p style="title" resp="#ETM">Evolución del tiburón Martillo</p>
+            <p>Nos encontramos 4 cuerpos, los cuales pertenecen a sus pertinentes especies marítimas: Un delfín con un vucal serrero, una ballena de poco tamaño; Y los dos ultimos cuerpos son tiburones martillos, de la misma especie. Las primeras dos especies se representan con un orificio respiratorio el cual se anexiona con una salida penetrante de agua.  </p>
             <pb n="Harvard Ms Typ 222, f. 46r" facs="https://ids.lib.harvard.edu/ids/iiif/422128741/full/pct:50/0/default.jpg" xml:id="Dik12230_f046r"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
